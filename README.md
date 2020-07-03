@@ -1,4 +1,4 @@
-# THN-vue-icon
+# thn-vue-icon
 
 ## Project setup
 ```
