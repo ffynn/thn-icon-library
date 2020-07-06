@@ -56,7 +56,7 @@
     box-sizing: border-box;
     -webkit-box-sizing: border-box;
   }
-  body{
+  body {
     font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
     font-size: 16px;
   }
@@ -87,10 +87,13 @@
     color: #486491;
     transition: background-color 0.2s;
   }
-  .item:hover{
+  .item:hover {
     background-color: #e7ecf3;
   }
-  .item svg{
+  .item svg {
     margin-bottom: 12px;
   }
+  .item div {display: none;}
+  .item:hover div {display: block;}
+
 </style>
