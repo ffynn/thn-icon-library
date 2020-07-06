@@ -44,6 +44,7 @@ jobs:
       with:
         msgtype: text
         content: |
-          同志们，设计系统中的图标又更新啦！
+          设计系统中的图标有更新～
+
           请使用 yarn upgrade thn-vue-icon --latest 更新。
-          在线查看图标：https://leadream.github.io/thn-vue-icon/
+          在线查看图标：https://ffynn.github.io/thn-vue-icon/
