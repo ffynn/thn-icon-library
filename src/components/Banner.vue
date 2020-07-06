@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1 class="banner">THN Vue Icon</h1>
+    <h1 class="banner">THN Icon Library</h1>
     <div class="code">
       <div>
         <h3>Installation</h3>
@@ -37,7 +37,7 @@
   pre{
     width: 100%;
     padding: 20px;
-    border-radius: 6px;
+    border-radius: 8px;
     color: #476391;
     background-color: #e7ecf3;
     overflow: auto;
