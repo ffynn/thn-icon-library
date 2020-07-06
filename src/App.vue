@@ -11,7 +11,7 @@
       >
         <component
           :is="iconComponentName"
-          :size="36"
+          :size="24"
         />
         <div>{{iconComponentName}}</div>
       </li>
