@@ -58,7 +58,7 @@
   }
   body {
     font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
   }
   .container {
     font-family: "Avenir", Helvetica, Arial, sans-serif;
@@ -93,7 +93,7 @@
   .item svg {
     margin-bottom: 12px;
   }
-  .item div {display: none;}
-  .item:hover div {display: block;}
+  /* .item div {display: none;}
+  .item:hover div {display: block;} */
 
 </style>
