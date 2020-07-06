@@ -1,13 +1,13 @@
 {
-  "name": "thn-vue-icons",
-  "version": "0.0.0",
+  "name": "thn-vue-icon",
+  "version": "0.0.1",
   "description": "THN Vue Icons, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
     "dist",
     "es"
   ],
-  "repository": "https://github.com/FFynn/thn-vue-icons.git",
+  "repository": "https://github.com/FFynn/thn-vue-icon.git",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "serve": "vue-cli-service serve",
