@@ -4,11 +4,11 @@
     <div class="code">
       <div>
         <h3>Installation</h3>
-        <pre><code>npm install thn-vue-icon --save<br/>yarn add thn-vue-icon</code></pre>
+        <pre><code>npm install thn-icon-library --save<br/>yarn add thn-icon-library</code></pre>
       </div>
       <div>
         <h3>Usage</h3>
-        <pre><code>import { IconHome } from 'thn-vue-icon'<br/>&lt;IconHome :size="24" color="#009C22" &gt;</code></pre>
+        <pre><code>import { IconHome } from 'thn-icon-library'<br/>&lt;IconHome :size="24" color="#009C22" &gt;</code></pre>
       </div>
     </div>
   </div>

@@ -93,7 +93,7 @@
   .item svg {
     margin-bottom: 12px;
   }
-  /* .item div {display: none;}
-  .item:hover div {display: block;} */
+  .item div {display: none;}
+  .item:hover div {display: block;}
 
 </style>
