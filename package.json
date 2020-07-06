@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "thn-vue-icons",
   "version": "0.0.0",
+=======
+  "name": "thn-vue-icon",
+  "version": "0.0.1",
+>>>>>>> db890209b0b0ba7c2263158b30620f841ae92d90
   "description": "THN Vue Icon, Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
