@@ -5,11 +5,15 @@ import Message from 'vue-m-message'
 import 'vue-m-message/dist/index.css'
 
 const iconNames = []
-
+function toLine(name) {
+  name = name.replace(/([A-Z])/g,"-$1").toLowerCase()
+  return name[0] === '-' ? name.slice(1) : name
+}
 if (typeof Vue !== 'undefined') {
   for (const name in icons) {
-    Vue.component(name, icons[name])
-    iconNames.push(name)
+    let element = toLine(name)
+    Vue.component(element, icons[name])
+    iconNames.push(element)
   }
 }
 
