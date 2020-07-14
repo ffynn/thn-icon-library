@@ -1,6 +1,6 @@
 {
   "name": "thn-icon-library",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "THN Icon Library (Vue), Automation workflow with Figma",
   "main": "bundle/index.common.js",
   "files": [
